@@ -1,0 +1,7 @@
+seaborn
+tqdm
+requests
+bottleneck
+bson
+click
+numpy>=1.15
